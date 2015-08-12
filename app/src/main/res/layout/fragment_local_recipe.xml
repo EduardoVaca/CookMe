@@ -26,7 +26,7 @@
             android:hint="@string/input_ingredient_hint"
             android:textColorHint="#ffffff"
             android:inputType="textCapSentences"
-            android:textColor="@color/ColorPrimary"
+            android:textColor="#ffffff"
             android:textSize="14sp"
             android:drawableLeft="@drawable/ic_search_white_24dp"
             android:imeOptions="actionSearch"/>
